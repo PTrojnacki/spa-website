@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/spa-website/static/css/main.ffdc7638.chunk.css",
-    "main.js": "/spa-website/static/js/main.1d1a6234.chunk.js",
-    "main.js.map": "/spa-website/static/js/main.1d1a6234.chunk.js.map",
+    "main.js": "/spa-website/static/js/main.05891cad.chunk.js",
+    "main.js.map": "/spa-website/static/js/main.05891cad.chunk.js.map",
     "runtime~main.js": "/spa-website/static/js/runtime~main.1f0eb546.js",
     "runtime~main.js.map": "/spa-website/static/js/runtime~main.1f0eb546.js.map",
     "static/js/2.bc4fe0e8.chunk.js": "/spa-website/static/js/2.bc4fe0e8.chunk.js",
     "static/js/2.bc4fe0e8.chunk.js.map": "/spa-website/static/js/2.bc4fe0e8.chunk.js.map",
     "index.html": "/spa-website/index.html",
-    "precache-manifest.ccabe5b05d75469a378ff11f4def63aa.js": "/spa-website/precache-manifest.ccabe5b05d75469a378ff11f4def63aa.js",
+    "precache-manifest.03ff0a693a7119a70b9811f162dd2aaa.js": "/spa-website/precache-manifest.03ff0a693a7119a70b9811f162dd2aaa.js",
     "service-worker.js": "/spa-website/service-worker.js",
     "static/css/main.ffdc7638.chunk.css.map": "/spa-website/static/css/main.ffdc7638.chunk.css.map",
     "static/media/img1.jpg": "/spa-website/static/media/img1.ada09652.jpg",
