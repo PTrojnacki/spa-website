@@ -1,0 +1,16 @@
+.article {
+    margin-top: 40px;
+}
+
+.article__title {
+    font-size: 1.6em;
+}
+
+.article__author {
+    margin: 10px 0;
+    font-size: 1.2em;
+}
+
+.article__content {
+    font-size: 1em;
+}

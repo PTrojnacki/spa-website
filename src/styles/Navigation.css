@@ -1,0 +1,25 @@
+.menu {
+    padding-right: 30px;
+}
+
+.menu__list {
+    list-style-type: none;
+}
+
+.menu__item {
+    display: block;
+    padding-bottom: 10px;
+    text-decoration: none;
+    color: #000;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: .2s;
+}
+
+.menu__item:hover {
+    transform: translateX(20px);
+}
+
+.menu__item.active {
+    color: rgb(1, 55, 87)
+}

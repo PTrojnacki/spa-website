@@ -1,0 +1,36 @@
+/* .products {
+    
+} */
+
+.products__list {
+    max-width: 500px;
+}
+
+.list__product {
+display: block;
+margin-bottom: 20px;
+padding-bottom: 5px;
+text-decoration: none;
+color: #000;
+transition: .2s;
+border-bottom: 2px solid transparent;
+cursor: pointer;
+}
+
+.list__product:hover {
+    border-bottom: 2px solid #000;
+}
+
+.product__title {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.product__author {
+    font-size: 0.8rem;
+}
+
+.product__type {
+    font-size: .6rem;
+    text-transform: uppercase;
+}

@@ -1,0 +1,39 @@
+.app {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    position: relative;
+    height: 50vh;
+    overflow: hidden;
+}
+
+.main {
+    display: flex;
+    flex-grow: 1;
+    padding: 20px 40px;
+}
+
+.aside {
+    min-width: 240px;
+}
+
+.page {
+    flex-grow: 1;
+}
+
+@media (min-width: 1280px) {
+    .aside {
+        min-width: 360px;
+    }
+}
+
+.footer {
+    padding: 10px;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+}
