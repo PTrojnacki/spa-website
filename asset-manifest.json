@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/spa-website/static/css/main.ffdc7638.chunk.css",
+    "main.js": "/spa-website/static/js/main.1d1a6234.chunk.js",
+    "main.js.map": "/spa-website/static/js/main.1d1a6234.chunk.js.map",
+    "runtime~main.js": "/spa-website/static/js/runtime~main.1f0eb546.js",
+    "runtime~main.js.map": "/spa-website/static/js/runtime~main.1f0eb546.js.map",
+    "static/js/2.bc4fe0e8.chunk.js": "/spa-website/static/js/2.bc4fe0e8.chunk.js",
+    "static/js/2.bc4fe0e8.chunk.js.map": "/spa-website/static/js/2.bc4fe0e8.chunk.js.map",
+    "index.html": "/spa-website/index.html",
+    "precache-manifest.ccabe5b05d75469a378ff11f4def63aa.js": "/spa-website/precache-manifest.ccabe5b05d75469a378ff11f4def63aa.js",
+    "service-worker.js": "/spa-website/service-worker.js",
+    "static/css/main.ffdc7638.chunk.css.map": "/spa-website/static/css/main.ffdc7638.chunk.css.map",
+    "static/media/img1.jpg": "/spa-website/static/media/img1.ada09652.jpg",
+    "static/media/img2.jpg": "/spa-website/static/media/img2.d1ba9782.jpg",
+    "static/media/img3.jpg": "/spa-website/static/media/img3.f50203a1.jpg",
+    "static/media/img4.jpg": "/spa-website/static/media/img4.c046d271.jpg"
+  }
+}
